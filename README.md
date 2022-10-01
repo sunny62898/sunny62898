@@ -6,6 +6,7 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny62898)](https://github.com/sunny62898/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898&layout=compact"/>
 
