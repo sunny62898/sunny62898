@@ -5,7 +5,8 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/><img src="https://github-readme-stats.vercel.app/api?username=sunny62898&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sunny62898&show_icons=true"/>
 
 <br />
 
