@@ -3,6 +3,10 @@
 - 🎯 2022 Goals: Contribute more project.
 - ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
 
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
 <!--
 **sunny62898/sunny62898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
