@@ -7,7 +7,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898&layout=compact"/>
+<br />
+
+### Languages and tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
 
 <!--
 **sunny62898/sunny62898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
