@@ -5,8 +5,12 @@
 
 <br />
 
+###Connect with me:
+<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+
+<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sunny62898&show_icons=true"/>
 
 <br />
 
