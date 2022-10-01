@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Sunny Lu. 👋
+- 🌱 I’m currently learning everything.😁
+- 🎯 2022 Goals: Contribute more project.
+- ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
 
 <!--
 **sunny62898/sunny62898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
