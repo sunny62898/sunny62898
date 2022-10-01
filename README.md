@@ -9,6 +9,10 @@
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=sunny62898&show_icons=true"/>
+
+<br />
+
 ### Languages and tools:
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
