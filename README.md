@@ -2,14 +2,7 @@
 - 🌱 I’m currently learning everything.😁
 - 🎯 2022 Goals: Contribute more project.
 - ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
-
-<br />
-
-###Connect with me:
-<br/>
-  [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
   
-  [instagram]:https://www.instagram.com/sunny0628
 
 <br />
 
