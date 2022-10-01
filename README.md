@@ -7,6 +7,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=62898&layout=compact"/>
+
 <!--
 **sunny62898/sunny62898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
