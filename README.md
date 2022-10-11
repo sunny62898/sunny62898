@@ -5,12 +5,11 @@
 - 📫 How to reach me: [gmail]
   
   
-  [gmail]:sunnylu666@gmail.com
+  [gmail]:mailto:sunnylu666@gmail.com
 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898&layout=compact&hide=HTML"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunny62898&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <br />
 
