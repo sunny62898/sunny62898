@@ -2,11 +2,15 @@
 - 🌱 I’m currently learning everything.😁
 - 🎯 2022 Goals: Contribute more project.
 - ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
+- 📫 How to reach me: [gmail]
   
+  
+  [gmail]:sunnylu666@gmail.com
 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny62898&layout=compact&hide=HTML"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=62898&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <br />
 
