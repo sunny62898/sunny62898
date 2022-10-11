@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning everything.😁
 - 🎯 2022 Goals: Contribute more project.
 - ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
-- 📫 How to reach me: [gmail]
+- 📫 How to reach me: [<i class="fa-duotone fa-envelope"></i>][gmail]
   
   
   [gmail]:mailto:sunnylu666@gmail.com
