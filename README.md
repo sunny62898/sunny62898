@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning everything.😁
 - 🎯 2022 Goals: Contribute more project.
 - ⚡ Fun fact: I love to write programs and practice taekwondo.🥋
-- 📫 How to reach me:  [<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-mail-interface-kiranshastry-gradient-kiranshastry.png"/>][gmail]
+- 📫 How to reach me:  [<img width="26px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-mail-interface-kiranshastry-gradient-kiranshastry.png"/>][gmail]
   
   
   [gmail]:mailto:sunnylu666@gmail.com
